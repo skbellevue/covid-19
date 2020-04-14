@@ -1,6 +1,7 @@
 # covid_tracker
 
 Basic COVID-19 Tracker.
+![Simulator Screen Shot - iPhone 11 Pro Max - 2020-04-14 at 11 14 18](https://user-images.githubusercontent.com/3673431/79259278-4e4f1100-7e41-11ea-9951-01320c1f250e.png)
 
 ## Getting Started
 
